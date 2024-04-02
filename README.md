@@ -21,17 +21,20 @@ Meu curriculo: [![Curriculo](https://img.shields.io/badge/Made%20with-LaTeX-1f42
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-<!--
+
+
 #
 ### Projetos:
-☕ Sistema de estoque: [![Sistema de estoque]()]()
+[☕ Sistema de estoque](https://github.com/OlgaMariaS/Atividades-da-graduacao-em-Informatica/tree/main/POO)<br/>
 
-🅰️Tela de sistema ERP: [![Tela de sistema ERP]()]()
+[🅰️Tela de sistema ERP](https://github.com/OlgaMariaS/Projeto-Menu)<br/>
 
-🐍Python: [![xxxx](http://ForTheBadge.com/images/badges/made-with-python.svg)]()
--->
+[🐍Python](https://github.com/OlgaMariaS/Projeto-Menu)<br/>
 #
+
 #### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-maria/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](olgamariasssantos@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pDptJ7ar)
+
+<!--![Olga GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaMariaS&show_icons=true&theme=radical)-->
