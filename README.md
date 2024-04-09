@@ -18,7 +18,6 @@ Meu curriculo: [![Curriculo](https://img.shields.io/badge/Made%20with-LaTeX-1f42
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/OlgaMariaS/Atividades-da-graduacao-em-Informatica/tree/main/POO)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]() 
 <img align="right" alt="img" src="https://i.pinimg.com/originals/9d/b1/3f/9db13f4f06bfa1600e970fd32f1851db.gif">
