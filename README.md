@@ -1,12 +1,12 @@
 
 ## Oiie! aqui é Olga Maria 👩‍💻
 
-### Se quiser saber sobre mim:
+### Sobre mim:
 🏡 Sou de Maringá, Paraná - Brasil 
 
-🎓 Cursando 6° semestre da graduação em Informática pela UEM
+🎓 Cursando 5° semestre da graduação em Informática pela UEM
 
-🌐 Português (nativa) | Inglês (básico, mas ainda aprendendo) | Espanhol (só o das novelas mexicanas)
+🌐 Português (nativa) | Inglês (intermediário, e ainda aprendendo) | Espanhol (só o das novelas mexicanas)
 
 Meu curriculo: [![Curriculo](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.overleaf.com/read/nbjgkmzhrmjz#2c374e)
 #
@@ -19,11 +19,11 @@ Meu curriculo: [![Curriculo](https://img.shields.io/badge/Made%20with-LaTeX-1f42
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]() 
+<!--[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]() -->
 <img align="right" alt="img" src="https://i.pinimg.com/originals/9d/b1/3f/9db13f4f06bfa1600e970fd32f1851db.gif">
 
 ##
-### Projetos:
+## Projetos:
 ☕ [Software de gerenciamento de estoque em JAVA](https://github.com/OlgaMariaS/Sistema_estoque_em_JAVA)<br/>
 
 🅰️ [Tela de sistema ERP](https://github.com/OlgaMariaS/Projeto-Menu)<br/>
