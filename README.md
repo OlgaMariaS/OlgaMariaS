@@ -26,6 +26,8 @@ Meu curriculo: [![Curriculo](https://img.shields.io/badge/Made%20with-LaTeX-1f42
 ## Projetos:
 ☕ [Software de gerenciamento de estoque em JAVA](https://github.com/OlgaMariaS/Sistema_estoque_em_JAVA)<br/>
 
+🌐 [Curso de informatica](https://github.com/OlgaMariaS/Curso-de-informatica)<br/>
+
 🅰️ [Tela de sistema ERP](https://github.com/OlgaMariaS/Projeto-Menu)<br/>
 
 ##
