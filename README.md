@@ -31,7 +31,7 @@
 ## Projects:
 ☕ [Inventory management software in JAVA](https://github.com/OlgaMariaS/Sistema_estoque_em_JAVA)<br/>
 
-🌐 [Informatics Course](https://github.com/OlgaMariaS/Curso-de-informatica)<br/>
+🌐 [Informatics Course](https://github.com/OlgaMariaS/Curso_Informatica)<br/>
 
 🅰️ [ERP Screen System](https://github.com/OlgaMariaS/Projeto-Menu)<br/>
 
