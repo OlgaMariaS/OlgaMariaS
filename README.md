@@ -4,7 +4,7 @@
 ### About me:
 🏡 From Maringá, Paraná - BR
 
-🎓 Studying 5th semester of the Software Engineering at UEM
+🎓 Studying 6th semester of the Software Engineering at UEM
 
 🌐 Portuguese (native) | English (intermediary and still learning) | Spanish (only from mexican soap)
 
